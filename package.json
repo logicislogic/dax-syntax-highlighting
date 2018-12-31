@@ -2,7 +2,7 @@
     "name": "dax-language",
     "displayName": "DAX Language - Syntax Highlighting",
     "description": "support for dax",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jianfajun",
     "icon": "dax2.png",
     "engines": {
@@ -12,16 +12,25 @@
         "Programming Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "dax",
-            "aliases": ["dax", "dax"],
-            "extensions": [".dax"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "dax",
-            "scopeName": "source.dax",
-            "path": "./syntaxes/dax.tmLanguage.json"
-        }]
+        "languages": [
+            {
+                "id": "dax",
+                "aliases": [
+                    "dax",
+                    "dax"
+                ],
+                "extensions": [
+                    ".dax"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "dax",
+                "scopeName": "source.dax",
+                "path": "./syntaxes/dax.tmLanguage.json"
+            }
+        ]
     }
 }
