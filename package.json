@@ -4,6 +4,7 @@
     "description": "support for dax",
     "version": "0.0.1",
     "publisher": "jianfajun",
+    "icon": "dax.png",
     "engines": {
         "vscode": "^1.29.0"
     },
