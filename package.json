@@ -1,6 +1,6 @@
 {
-    "name": "dax",
-    "displayName": "dax",
+    "name": "dax-language",
+    "displayName": "DAX Language - Syntax Highlighting",
     "description": "support for dax",
     "version": "0.0.1",
     "publisher": "jianfajun",
