@@ -26,7 +26,7 @@
 					"name": "comment.line.dax"
 				},
 				{
-					"name": "keyword.other.dax",
+					"name": "keyword.control.dax",
 					"match": "\\b(DEFINE|EVALUATE|ORDER BY|RETURN|VAR)\\b"
 				},
 				{

@@ -10,8 +10,11 @@ Adds DAX Language colorization.
 
 为DAX语言添加语法高亮。
 
+
+
 ## Release Notes
 
-Last update at 2018.12.23.
+Last update at 2019.2.11.
 
-最后更新日期：2018.12.23。
+最后更新日期：2019.2.11。
+
