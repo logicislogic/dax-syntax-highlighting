@@ -2,7 +2,7 @@
     "name": "dax-language",
     "displayName": "DAX Language - Syntax Highlighting",
     "description": "support for dax",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "jianfajun",
     "icon": "dax2.png",
     "engines": {
