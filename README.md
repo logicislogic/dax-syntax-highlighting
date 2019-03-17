@@ -10,11 +10,10 @@ Adds DAX Language colorization.
 
 为DAX语言添加语法高亮。
 
-
-
 ## Release Notes
 
-Last update at 2019.2.11.
+Last update: 2019.3.17. Add new functions: CONTAINSSTRING, CONTAINSSTRINGEXACT, DISTINCTCOUNTNOBLANK.
 
-最后更新日期：2019.2.11。
+最后更新日期：2019.3.17。添加新函数：CONTAINSSTRING、CONTAINSSTRINGEXACT、DISTINCTCOUNTNOBLANK。
+
 
