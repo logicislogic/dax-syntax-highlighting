@@ -12,8 +12,8 @@ Adds DAX Language colorization.
 
 ## Release Notes
 
-Last update: 2019.3.17. Add new functions: CONTAINSSTRING, CONTAINSSTRINGEXACT, DISTINCTCOUNTNOBLANK.
+Last update: 2019.4.12. Add new functions: ALLCROSSFILTERED.
 
-最后更新日期：2019.3.17。添加新函数：CONTAINSSTRING、CONTAINSSTRINGEXACT、DISTINCTCOUNTNOBLANK。
+最后更新日期：2019.4.12。添加新函数：ALLCROSSFILTERED。
 
 
